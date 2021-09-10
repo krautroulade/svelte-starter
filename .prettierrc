@@ -1,0 +1,16 @@
+{
+  "trailingComma": "none",
+  "tabWidth": 2,
+  "semi": false,
+  "singleQuote": true,
+  "bracketSpacing": true,
+  "printWidth": 100,
+  "vueIndentScriptAndStyle": true,
+  "arrowParens": "always",
+  "endOfLine": "lf",
+  "svelteSortOrder" : "options-styles-scripts-markup",
+  "svelteStrictMode": true,
+  "svelteBracketNewLine": false,
+  "svelteAllowShorthand": false,
+  "svelteIndentScriptAndStyle": true
+}
